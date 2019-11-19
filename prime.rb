@@ -2,7 +2,7 @@
 @otherNumber = 10
 
 def prime?(x)
-  if x.each do |z|
+  if x.collec do |z|
     z % 1 == 0
   return true
   #elsif  % 1 != 0
